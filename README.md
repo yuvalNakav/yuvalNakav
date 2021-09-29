@@ -1,6 +1,6 @@
 <p>
 <h1 align="center">Hi, I’m Yuval</h1>
-<h4 align="center"> A junior full-stack web developer, working for <a src="https://www.eswlab.com/">ESL</a></h4>
+<h4 align="center"> A junior full-stack web developer, working for <a href="https://www.eswlab.com/">ESL</a></h4>
 
 <br />
 <h2 align="left">Programing Languages, Frameworks & Tools</h2>
@@ -30,7 +30,7 @@
 </p>
 </p>
 <p>
-<a src="https://www.linkedin.com/in/yuval-nakav-736930208/">Find me on LinkedIn </a>
+<a href="https://www.linkedin.com/in/yuval-nakav-736930208/">Find me on LinkedIn </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" />
 </p>
 
